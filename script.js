@@ -11,11 +11,11 @@ let count = 1;
 // it increases gradually with time of 1000ms 
 setInterval(()=>
 {
-	if(count<=1000){
+	if(count<=500){
 		count++;
 		counter.innerText = count;
 }
-},10);
+},50);
 
 setTimeout(()=>{
 
