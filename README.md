@@ -3,6 +3,12 @@
 
 <img src="Screenshot (738).png">
 https://suprajaarthi.github.io/Counter/
+
+```javascript
+if (isAwesome){
+  return true
+}
+```
 ```javascript
 setInterval(()=>
 {
