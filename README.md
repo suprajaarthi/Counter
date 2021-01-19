@@ -7,12 +7,18 @@ https://suprajaarthi.github.io/Counter/
 setInterval(()=>
 {
 	if(count<=1000){
+	
 		count++;
+		
 		counter.innerText = count;
+		
 }
+
 },10);
 
-setTimeout(()=>{
+setTimeout(()=>
+{
 
 	followers.innerText = "SUCESS!!";
+	
 },100);
