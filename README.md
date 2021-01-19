@@ -3,7 +3,7 @@
 
 <img src="Screenshot (738).png">
 https://suprajaarthi.github.io/Counter/
-
+```javascript
 setInterval(()=>
 {
 	if(count<=1000){
@@ -22,3 +22,5 @@ setTimeout(()=>
 	followers.innerText = "SUCESS!!";
 	
 },100);
+
+```
