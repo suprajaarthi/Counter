@@ -5,11 +5,7 @@
 https://suprajaarthi.github.io/Counter/
 
 ```javascript
-if (isAwesome){
-  return true
-}
-```
-```javascript
+
 setInterval(()=>
 {
 	if(count<=1000){
